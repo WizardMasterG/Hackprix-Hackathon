@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "I am a chatbot created by OpenAI."
+    },
+    {
+      "question": "How does a chatbot work?",
+      "answer": "A chatbot works by analyzing the user's input and generating an appropriate response based on its training data."
+    },
+    {
+      "question": "hello",
+      "answer": "& C:/Users/ASUS-/AppData/Local/Programs/Python/Python312/python.exe c:/Users/ASUS-/OneDrive/Desktop/Chat_bot/main.py"
+    },
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "how are you",
+      "answer": "iam good"
+    }
+  ]
+}
